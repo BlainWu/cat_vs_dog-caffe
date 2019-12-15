@@ -1,3 +1,7 @@
+# 最终训练好的文件使用方法
+可以看这个仓库，使用opencv直接调用caffemodel的项目，C++实现
+https://github.com/BlainWu/cat_or_dog_opencv-test
+
 # 数据集准备
 ## 1.下载使用微软的没有被打乱的dataset 
 https://www.microsoft.com/en-us/download/confirmation.aspx?id=54765 
